@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I am Prashant Tiwari</h1>
 <h3 align="center">A passionate student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WaWl4kAKplVks/giphy.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WaWl4kAKplVks/giphy.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacificon&label=Profile%20views&color=0e75b6&style=flat" alt="pacificon" /> </p>
 
